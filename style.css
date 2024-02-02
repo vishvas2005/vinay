@@ -157,6 +157,7 @@
     font-weight: 400;
     border-radius: 2vw;
     transition: all 1s ease;
+    box-shadow: 0 0  35px #0ef;
 }
 
 .btn:hover {
@@ -512,6 +513,7 @@ overflow: hidden;
    justify-content: center;
    border-radius: 3vw;
    color: #0A1D29;
+   box-shadow: 0 0  35px #0ef;
 }
 
 .btn2:hover {
